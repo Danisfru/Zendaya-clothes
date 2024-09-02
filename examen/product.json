@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "CONJUNTO VALENTINO BY ZENDAYA",
+        "price": 520,
+        "image": "ROPA 1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "CONJUNTO VALENTINO BY ZENDAYA",
+        "price": 220,
+        "image": "ROPA 2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "CONJUNTO VALENTINO BY ZENDAYA",
+        "price": 250,
+        "image": "ROPA2.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "BOLSO VALENTINO BLANCO",
+        "price": 420,
+        "image": "BOLSO1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "BOLSO VALENTINO CELESTE",
+        "price": 120,
+        "image": "BOLSO2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "BOLSO VALENTINO CORAL",
+        "price": 120,
+        "image": "BOLSA3.jpg"
+    }
+]
